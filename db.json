@@ -1,4 +1,6 @@
 {
+"pie": {
+},
   "barChart": {
                 "labels": ["Africa", "Asia", "Europe", "Latin America", "North America"],
                 "datasets": [
