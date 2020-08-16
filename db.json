@@ -1,5 +1,4 @@
 {
-"charts": {
   "barChart": {
                 "labels": ["Africa", "Asia", "Europe", "Latin America", "North America"],
                 "datasets": [
@@ -9,7 +8,6 @@
                     "data": [2478,5267,734,784,433]
                   }
                 ]
-              } 
-}
+              }
 
 }
